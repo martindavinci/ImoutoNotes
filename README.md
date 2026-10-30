@@ -18,8 +18,9 @@ mouth while she talks. She sits on the top edge of one of your notes and speaks 
 
 ## Download
 
-Get `Imouto Notes_<version>_x64-setup.exe` from the [latest release](https://github.com/martindavinci/ImoutoNotes/releases/latest)
-and run it. It installs for your Windows user only, without asking for administrator rights.
+Get `ImoutoNotes_<version>_x64-setup.exe` from the [latest release](https://github.com/martindavinci/ImoutoNotes/releases/latest)
+and run it. It installs for your Windows user only, without asking for administrator rights. Each release's notes give
+the installer's SHA-256, to check the file you got is the one published here.
 
 - Windows 10 or 11, 64-bit, with the WebView2 runtime (part of Windows 11 and of an updated Windows 10; the installer
   downloads it if it is missing).

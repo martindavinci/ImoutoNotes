@@ -6,6 +6,7 @@
   <a href="https://github.com/martindavinci/ImoutoNotes/releases/latest"><img src="https://img.shields.io/github/v/release/martindavinci/ImoutoNotes" alt="Latest release"></a>
   <a href="https://github.com/martindavinci/ImoutoNotes/releases"><img src="https://img.shields.io/github/downloads/martindavinci/ImoutoNotes/total" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6" alt="Platform: Windows 10 | 11">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-freeware-ff7aa8" alt="License: freeware"></a>
 </p>
 
 <p align="center">
@@ -119,5 +120,12 @@ What changed in each version: [CHANGELOG.md](CHANGELOG.md) (also in the app, und
 - The note editor is [CodeMirror 6](https://codemirror.net) (MIT), with [@lezer/markdown](https://github.com/lezer-parser/markdown).
 - Built with [Tauri](https://tauri.app).
 - Every third-party license is listed in the app, under Help › About.
+
+## License
+
+Imouto Notes is freeware: free to use, at home or at work, on as many computers as you like. It may not be
+redistributed, sold, modified or decompiled, and the imouto character stays her author's. Download it only from this
+repository. The full terms are in [LICENSE](LICENSE); the open-source components inside the app keep their own
+licenses.
 
 Made by Martin DaVinci.

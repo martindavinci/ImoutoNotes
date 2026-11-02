@@ -2,6 +2,10 @@
 
 What changed in each version of Imouto Notes, newest first. The app shows the same list under Help.
 
+## 0.8.0 (2026-11-02)
+
+In All notes the cards are no longer cut off when there are many of them: their title and lines show in full, in the trash too.
+
 ## 0.7.6 (2026-11-01)
 
 A new app icon: her face as she looks now, on a pink disc.

@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/martindavinci/ImoutoNotes/releases/latest"><img src="https://img.shields.io/github/v/release/martindavinci/ImoutoNotes" alt="Latest release"></a>
-  <a href="https://github.com/martindavinci/ImoutoNotes/releases"><img src="https://img.shields.io/github/downloads/martindavinci/ImoutoNotes/total" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6" alt="Platform: Windows 10 | 11">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-freeware-ff7aa8" alt="License: freeware"></a>
 </p>
